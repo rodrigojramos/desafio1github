@@ -6,7 +6,8 @@ public class Program {
 		
 		System.out.println("DESAFIO GITHUB");
 		System.out.println("VERSÃO 1");
-
+		System.out.println();
+		System.out.println("VERSÃO 2");
 	}
 
 }
