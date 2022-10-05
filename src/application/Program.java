@@ -8,6 +8,8 @@ public class Program {
 		System.out.println("VERSÃO 1");
 		System.out.println();
 		System.out.println("VERSÃO 2");
+		System.out.println();
+		System.out.println("VERSÃO 3");
 	}
 
 }
